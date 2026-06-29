@@ -67,9 +67,6 @@ Senior QA Automation Engineer with 8+ years of experience in Manual, Automation,
 - Java
 
 ## Contact
-
 LinkedIn:
-[...](https://www.linkedin.com/in/bhuvaneswarirajangam/)
+https://www.linkedin.com/in/bhuvaneswarirajangam/
 
-Email:
-...
